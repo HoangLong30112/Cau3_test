@@ -5,5 +5,6 @@ class Longdeptrai{
         System.out.println("kikikikik");
         System.out.println("kikikikik");
         System.out.println("kikikikik");
+        System.out.println("test them vao nhanh test merge");
     }
 }
